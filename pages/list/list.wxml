@@ -1,0 +1,4 @@
+<import src='../common/movie-list'/>
+<view>
+  <template is="movie-list" data="{{movies}}"/>
+</view>
